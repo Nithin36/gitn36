@@ -1,0 +1,40 @@
+[10-May-2018 07:02:59 UTC] PHP Parse error:  syntax error, unexpected 'getUploadbaseurl' (T_STRING), expecting variable (T_VARIABLE) in /home/appreview4u/public_html/builderapi/app/controllers/MainController.php on line 108
+[10-May-2018 07:08:06 UTC] PHP Fatal error:  Call to a member function move() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 21
+[11-May-2018 05:11:54 UTC] PHP Warning:  require(/home/appreview4u/public_html/builderapi/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/appreview4u/public_html/builderapi/vendor/composer/autoload_real.php on line 70
+[11-May-2018 05:11:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/appreview4u/public_html/builderapi/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='/home/appreview4u/public_html/builderapi/vendor/phpseclib/phpseclib/phpseclib:.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/appreview4u/public_html/builderapi/vendor/composer/autoload_real.php on line 70
+[11-May-2018 08:45:50 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 133
+[11-May-2018 09:03:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 72
+[11-May-2018 09:03:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 72
+[11-May-2018 09:06:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 122
+[11-May-2018 09:07:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 161
+[11-May-2018 09:50:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 80
+[11-May-2018 09:50:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 80
+[11-May-2018 09:51:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 80
+[11-May-2018 09:51:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 80
+[11-May-2018 09:51:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 80
+[11-May-2018 10:36:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 141
+[16-May-2018 12:23:47 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 118
+[17-May-2018 14:05:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 558
+[17-May-2018 14:18:50 UTC] PHP Parse error:  syntax error, unexpected '$replacecontent' (T_VARIABLE) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 566
+[17-May-2018 14:20:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 566
+[17-May-2018 14:21:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 568
+[17-May-2018 14:22:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 568
+[17-May-2018 14:24:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 568
+[06-Jun-2018 08:03:27 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[06-Jun-2018 14:01:38 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 05:17:37 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 05:21:00 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 05:55:48 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 06:02:13 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 06:03:49 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 06:26:34 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[07-Jun-2018 06:40:14 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 34
+[11-Jun-2018 09:34:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 701
+[11-Jun-2018 09:34:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 701
+[12-Jun-2018 10:06:07 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 186
+[12-Jun-2018 10:07:27 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 186
+[12-Jun-2018 10:11:47 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 270
+[12-Jun-2018 10:16:44 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/appreview4u/public_html/builderapi/app/controllers/AppsController.php on line 270
+[12-Jun-2018 13:46:31 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 209
+[12-Jun-2018 13:46:49 UTC] PHP Fatal error:  Call to a member function isValid() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 289
+[22-Jun-2018 09:58:20 UTC] PHP Fatal error:  Call to a member function toArray() on null in /home/appreview4u/public_html/builderapi/app/controllers/BuilderController.php on line 775
